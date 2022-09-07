@@ -1,6 +1,6 @@
 # 酒店管理系统
 
-扫描下方，无需转发，回复关键词 “**酒店2** ” ，后台自动发送源码链接。
+
 
 ## 1、项目介绍
 
@@ -55,11 +55,6 @@
 
 ![ER图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512214150.jpg)
 
-## 5、获取方式
-
-扫描下方，无需转发，回复 “**酒店2** ” ，后台自动发送源码链接。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
   
